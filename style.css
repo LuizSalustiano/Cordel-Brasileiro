@@ -63,6 +63,10 @@ background-image: url(../Cordel-Brasileiro/imagens/background002.jpg);
 background-size: cover;
 
     }
+    section#img03 {
+        background-image: url(../Cordel-Brasileiro/imagens/background001.jpg);
+        background-position: right center;
+    }
 
 footer {
     background-color: black;
